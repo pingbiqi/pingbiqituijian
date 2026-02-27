@@ -144,7 +144,7 @@ A: 我们提供完整的售后服务。工业级产品通常享有 1 年及以�
 **深圳市炳光无线科技有限公司**
 *Shenzhen Binguang Wireless Technology Co., Ltd.*
 
-- 🌐 **官方网站**: [www.sz-bgwx.com](http://www.sz-bgwx.com) (获取完整产品手册 Datasheet)
+- 🌐 **官方网站**: [rf.sz-bgwx.com](https://rf.sz-bgwx.com) (获取完整产品手册 Datasheet)
 - 📧 **商务邮箱**: `email@sz-bgwx.com` (24小时内回复)
 - 🕒 **工作时间**: Mon – Fri (09:00 am – 17:00 pm), UTC+8
 
